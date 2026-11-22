@@ -1,4 +1,4 @@
-# Garena / CODM Account Checker
+# Garena / CODM Account Checker (OUTDATED COOKIES & DATADOME)
 
 A single-file reference implementation of the Garena login flow, used to validate
 `email:password` combos and pull CODM profile metadata for each hit.
