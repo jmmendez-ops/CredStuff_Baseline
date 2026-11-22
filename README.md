@@ -37,7 +37,7 @@ list, from one IP, with no proxy rotation and no concurrency. See
 
 ## Requirements
 Plus `change_cookie.py`, a local module providing `get_cookies()`, which returns
-the base cookie jar. It is not included here.
+the base cookie jar. Sample is included here but outdated.
 
 ## Run
 Prompt accepts a path to a `.txt` of `user:pass` lines. Enter with no path and it
