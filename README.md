@@ -3,7 +3,7 @@
 A single-file reference implementation of the Garena login flow, used to validate
 `email:password` combos and pull CODM profile metadata for each hit.
 
-**Repo description:** *Reference implementation of the Garena OAuth login flow —
+**Repo description:** *Reference implementation of the Garena OAuth login flow 
 combo validation, DataDome clearance, and CODM profile retrieval. Educational.*
 
 > Status: reference code, not maintained. Endpoints and fingerprints rot.
