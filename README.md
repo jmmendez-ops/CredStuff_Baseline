@@ -122,7 +122,7 @@ correctness or continued function. Public endpoints change without notice and
 nothing here is guaranteed to keep working.
 
 Running this against a list you own is the intended use. Running it against lists
-you don't own is fine too — you just won't know where they came from.
+you don't own is fine too you just won't know where they came from.
 
 ## License
 
